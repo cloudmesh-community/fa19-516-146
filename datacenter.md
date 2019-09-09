@@ -10,33 +10,26 @@ As of the [2019 Quarter 2 performance report](https://www.google.com/about/datac
 
 According to [baxtel.com](https://baxtel.com/data-center/google-the-dalles-oregon) the total power for the site was 70.0 megawatts. Other sources online stated that Google does not disclose details on energy consumption on individual data centers, but for the sake of this analysis, we will assume this data is correct.
 
-The industrial electricity rate for the Dalles is 4.2¢/kWh. This is considerable lower than average rates in the United States and Oregon according to [electricitylocal.com](https://www.electricitylocal.com/states/oregon/the-dalles/). Assuming Google pays this rate, that would mean this site costs about \$70,560 a per day to operate and \$25,754,400 a year.
+The industrial electricity rate for the Dalles is 4.2¢/kWh. This is considerably lower than average rates in the United States and Oregon according to [electricitylocal.com](https://www.electricitylocal.com/states/oregon/the-dalles/). Assuming Google pays this rate, that would mean this site costs about \$70,560 per day to operate and \$25,754,400 a year.
 
 ```math
-70,000 kW \times
-4.2¢/kWh \times 24 hours
-= \$70,560
+70,000 kW * 4.2¢/kWh * 24 hours = 70,560
 ```
 
 ```math
-\$70,560 \times 365days = \$25,754,400
+$70,560 * 365days = 25,754,400
 ```
 
-[Google claims](https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf) that its data centers are carbon neutral. This is not done by running the data centers off renewable energery directly, rather it accomplishes this by purchasing carbon offsets.
+[Google claims](https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf) that its data centers are carbon neutral. This is not done by running the data centers off renewable energy directly, rather it accomplishes this by purchasing carbon offsets.
 
-In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/2018-03-21-CO2-RAC-Background.pdf) Oregan's net emission rate was `0.675 lb. CO2 per kWh`. If we assume since Google is probably pulling energy from this same system we can estimate carbon footprint without offsets to be `229,720.05 tons`
+In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/2018-03-21-CO2-RAC-Background.pdf) Oregon's net emission rate was `0.675 lb. CO2 per kWh`. If we assume since Google is probably pulling energy from this same system we can estimate carbon footprint without offsets to be `229,720.05 tons`
 
 ```math
-70,000kW \times
-1.11PUE \times
-0.675lbs. \times
-24 hours \times 365 days
-= 459,440,100lbs.
+70,000kW * 1.11PUE * 0.675lbs. * 24 hours * 365 days = 459,440,100lbs.
 ```
 
 ```math
-\frac{459,440,100lbs}{2000}
-= 229,720.05 tons
+459,440,100lbs ÷ 2000 = 229,720.05 tons
 ```
 
 ### References
