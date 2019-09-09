@@ -10,4 +10,4 @@
 ## Week 2
 
 - [x] Read Data Centers chapter
-- [ ] [Data Center Exercises](dataceneter.md)
+- [ ] [Data Center Exercises](datacenter.md)
