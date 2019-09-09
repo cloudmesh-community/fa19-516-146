@@ -17,7 +17,7 @@ The industrial electricity rate for the Dalles is 4.2¢/kWh. This is considerabl
 ```
 
 ```math
-$70,560 * 365days = 25,754,400
+70,560 * 365days = 25,754,400
 ```
 
 [Google claims](https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf) that its data centers are carbon neutral. This is not done by running the data centers off renewable energy directly, rather it accomplishes this by purchasing carbon offsets.
