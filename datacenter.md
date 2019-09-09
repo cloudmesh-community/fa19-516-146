@@ -8,7 +8,7 @@ Located in the Dalles City, Oregon right off the Columbia river, Google's Dalles
 
 As of the [2019 Quarter 2 performance report](https://www.google.com/about/datacenters/efficiency/internal/#performances-list), the main facility has a PUE of 1.11.
 
-According to [baxtel.com](https://baxtel.com/data-center/google-the-dalles-oregon) the total power for the site was 70.0 megawatts. Other sources online state that Google does not disclose details on enery comsuption on individual data centers.
+According to [baxtel.com](https://baxtel.com/data-center/google-the-dalles-oregon) the total power for the site was 70.0 megawatts. Other sources online stated that Google does not disclose details on energy consumption on individual data centers, but for the sake of this analysis, we will assume this data is correct.
 
 The industrial electricity rate for the Dalles is 4.2¢/kWh. This is considerable lower than average rates in the United States and Oregon according to [electricitylocal.com](https://www.electricitylocal.com/states/oregon/the-dalles/). Assuming Google pays this rate, that would mean this site costs about \$70,560 a per day to operate and \$25,754,400 a year.
 
