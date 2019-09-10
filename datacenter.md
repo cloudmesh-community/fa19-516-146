@@ -40,3 +40,7 @@ In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/201
 - <https://www.electricitylocal.com/states/oregon/the-dalles/>
 - <https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf>
 - <https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/2018-03-21-CO2-RAC-Background.pdf>
+
+## E.datacenter.3
+
+My footprint is 12240lbs. of CO2 according the <http://carbonfootprint.c2es.org>. Data record to [spreadsheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=314181983).
