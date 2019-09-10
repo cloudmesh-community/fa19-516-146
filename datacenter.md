@@ -44,3 +44,13 @@ In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/201
 ## E.datacenter.3
 
 My footprint is 12240lbs. of CO2 according the <http://carbonfootprint.c2es.org>. Data record to [spreadsheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=314181983).
+
+## E.dataceneter.4
+
+Hydroelectricity is the process of using water power to generate electricity. This is accomplished by using dams to direct water to turbines that deliver power generators. Those generators convert that power to electricity.
+
+The Dalles data center presumably pulls power from the Dalles Hydroelectric dam This dam is one of the largest in the United States and spans the Columbia River a few miles away for the Google data center.
+
+### References (E.dataceneter.4)
+
+- <https://www.nwp.usace.army.mil/The-Dalles/>
