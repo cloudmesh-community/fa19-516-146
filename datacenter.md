@@ -18,7 +18,7 @@ Google does not disclose details on energy consumption on individual data center
 but for the sake of this analysis, we will assume this data is correct.
 
 The industrial electricity rate for the Dalles is 4.2¢/kWh. This is considerably
-lower than average rates in the United States and Oregon according to 
+lower than average rates in the United States and Oregon according to
 [electricitylocal.com](https://www.electricitylocal.com/states/oregon/the-dalles/).
 Assuming Google pays this rate, that would mean this site costs about \$70,560
 per day to operate and \$25,754,400 a year.
@@ -31,12 +31,12 @@ per day to operate and \$25,754,400 a year.
 70,560 * 365days = 25,754,400
 ```
 
-[Google claims](https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf) 
+[Google claims](https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/google-carbon-offsets.pdf)
 that its data centers are carbon neutral. This is not done by running the data
 centers off renewable energy directly, rather it accomplishes this by purchasing
 carbon offsets.
 
-In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/2018-03-21-CO2-RAC-Background.pdf) 
+In a [2018 report](https://www.oregon.gov/energy/Get-Involved/rulemakingdocs/2018-03-21-CO2-RAC-Background.pdf)
 Oregon's net emission rate was `0.675 lb. CO2 per kWh`. If we assume since Google
 is probably pulling energy from this same system we can estimate carbon footprint
 without offsets to be `229,720.05 tons`
@@ -100,4 +100,12 @@ This makes up about 5% of Indiana's electricty.
 
 ## E.datacenter.8
 
-## E.datacenter.9
+Google data center outage on June 2, 2019
+
+On Sunday, June 2, 2019, a server configuration change caused a 4 hour outage for Google services in the eastern United States. According to the [Inside Google Cloud article](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption) about the incident this resulted in some service being or not available for that region. Google reports YouTube by itself saw a 2.5% drop in views during this time. Other sources, [such as an article from 9to5Google](https://9to5google.com/2019/06/03/google-outage-cause/) reports that YouTube's global views went down by 10%, which is much higher than Google. This would be a significant loss in ads revenue. And that is only one of a many services that were affected. Others reported not being able to control their own thermostat, since Nest relies google services affect in the outage. I imagine the loss in customer good will is as much, if not more of a concern.
+
+### References (E.datacenter.8)
+
+- <https://www.datacenterdynamics.com/news/google-suffers-sunday-outage-impacts-cloud-youtube-gmail-and-more/>
+- <https://9to5google.com/2019/06/03/google-outage-cause/>
+- <https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption>
