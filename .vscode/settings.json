@@ -1,4 +1,5 @@
 {
     "markdown.preview.breaks": true,
-    "prettier.proseWrap": "always"
+    "prettier.proseWrap": "always",
+    "python.pythonPath": "~/ENV3/bin/python"
 }
