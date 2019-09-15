@@ -102,7 +102,17 @@ This makes up about 5% of Indiana's electricty.
 
 Google data center outage on June 2, 2019
 
-On Sunday, June 2, 2019, a server configuration change caused a 4 hour outage for Google services in the eastern United States. According to the [Inside Google Cloud article](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption) about the incident this resulted in some service being or not available for that region. Google reports YouTube by itself saw a 2.5% drop in views during this time. Other sources, [such as an article from 9to5Google](https://9to5google.com/2019/06/03/google-outage-cause/) reports that YouTube's global views went down by 10%, which is much higher than Google. This would be a significant loss in ads revenue. And that is only one of a many services that were affected. Others reported not being able to control their own thermostat, since Nest relies google services affect in the outage. I imagine the loss in customer good will is as much, if not more of a concern.
+On Sunday, June 2, 2019, a server configuration change caused a 4 hour outage
+for Google services in the eastern United States. According to the [Inside
+Google Cloud article](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
+about the incident this resulted in some service being or not available for
+that region. Google reports YouTube by itself saw a 2.5% drop in views during
+this time. Other sources, [such as an article from 9to5Google](https://9to5google.com/2019/06/03/google-outage-cause/)
+reports that YouTube's global views went down by 10%, which is much higher than
+Google. This would be a significant loss in ads revenue. And that is only one
+of a many services that were affected. Others reported not being able to control
+their own thermostat, since Nest relies google services affect in the outage. I
+imagine the loss in customer good will is as much, if not more of a concern.
 
 ### References (E.datacenter.8)
 
